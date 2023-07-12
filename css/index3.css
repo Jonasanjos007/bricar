@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(2, 2, 2);
+    color: aliceblue;   
+}
+.jonas{display: flex;}
+    
+
+.title{
+    margin: auto;
+}
+.sub_title{
+    margin: 50% 0 0 30%;
+}
+.botao{
+        display: flex;
+        justify-content: center;
+        margin: 50% 0;
+    
+}
+.botao_secreto{
+    border: 2px solid white;
+   
+    padding: 1.5em 3em;
+    border-radius: 20px;
+    color: aqua;
+    text-decoration: none;
+    font-size: 29px;
+}
+.apresentacao{
+    background-image:url("img/me-da-o-biscoito.jpg") ;
+  
+  padding: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+}
+.texto{margin: 20% 27% ;
+    color: rgb(250, 241, 241);
+   
+    
+}
+.conteiner{   display: flex;
+        justify-content: center;
+        margin: 50% 0;
+    
+
+}
+.botao4{
+    border:2px solid white ;
+    padding: 1.5em 3em;
+    border-radius: 20px;
+    color: aqua;
+    text-decoration: none;
+    font-size: 29px;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+}
+.jonas{display: flex;
+    
+  margin: 0 0 0 17% ;
+}
+.titulo{
+    color: aqua;
+}
+.img{width: 100%;
+}
+         .botao{
+        display: flex;
+            justify-content: center;
+            margin: 50% 0;
+        
+    }
+
+     .botao2{
+        border:2px solid white ;
+        padding: 1.5em 3em;
+        border-radius: 20px;
+        color: aqua;
+        text-decoration: none;
+        font-size: 29px;
+    }
+    .jona{
+        color: aqua;
+        margin: 0 0 0 27%;
+    }
